@@ -1,0 +1,9 @@
+\.idea/
+bin/
+obj/
+Properties/
+*.csproj
+*.user
+ControlWork\.sln
+packages/
+TestParabola/packages\.config
